@@ -1,0 +1,6 @@
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Lucian\SkyDrive\Documents\Visual Studio 2013\ANUL II\MAP\Lab4\Lab4\obj\Debug\Lab4.pdb
